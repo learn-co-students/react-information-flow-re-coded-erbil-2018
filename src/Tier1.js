@@ -7,7 +7,7 @@ export default class Tier1 extends Component {
 
   constructor(props) {
     super(props)
-    const initialColor = getRandomColor()
+    const initialColor = getRandomColor(initialColors)
     this.state = {
       color: initialColor,
       childColor: getReducedColor(initialColor)
