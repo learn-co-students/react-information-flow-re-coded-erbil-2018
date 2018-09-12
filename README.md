@@ -4,7 +4,7 @@
 - Practice debugging
 
 ## Getting Started
-
+ 
 Take a moment to familiarize yourself with the code base. We have a simple application that renders 3 unique components: `Tier1`, `Tier2`, and `Tier3`. Following is what our component structure looks like when fully rendered:
 ```
 App
